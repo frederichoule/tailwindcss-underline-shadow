@@ -1,5 +1,6 @@
 {
   "name": "tailwindcss-underline-shadow",
+  "author": "Frederic Houle <frederic@frederichoule.com> (https://frederichoule.com)",
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
